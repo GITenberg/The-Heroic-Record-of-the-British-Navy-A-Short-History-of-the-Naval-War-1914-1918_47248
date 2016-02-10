@@ -1,0 +1,41 @@
+_repo: The-Heroic-Record-of-the-British-Navy-A-Short-History-of-the-Naval-War-1914-1918_47248
+creator:
+  authors:
+  - agent_name: Bashford, H. H. (Henry Howarth), Sir
+    aliases:
+    - Bashford, Henry Howarth, Sir
+    - Bashford, Henry
+    birthdate: 1880
+    deathdate: 1961
+    gutenberg_agent_id: '37411'
+    url: http://www.gutenberg.org/2009/agents/37411
+  - agent_name: Hurd, Archibald
+    aliases:
+    - Hurd, Archibald S. (Archibald Spicer)
+    - Hurd, Archibald Spicer, Sir
+    birthdate: 1869
+    deathdate: 1959
+    gutenberg_agent_id: '44208'
+    url: http://www.gutenberg.org/2009/agents/44208
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47248'
+  lccn: '19011358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+- !lcsh 'Great Britain. Royal Navy'
+- !lcc 'D501'
+tableOfContents: Foreword -- August 4, 1914 -- The Battle of the Bight -- Coronel
+  -- The Battle of the Falkland Islands -- Back to the North Sea -- The seamen at
+  Gallipoli -- Sub-mariners of England -- The Battle of Jutland -- The Dover Patrol
+  -- The sealing of Zeebrugge and Ostend -- The coming of the Americans -- The harvest
+  of sea power.
+title: 'The Heroic Record of the British Navy: A Short History of the Naval War, 1914-1918'
+url: http://www.gutenberg.org/ebooks/47248
