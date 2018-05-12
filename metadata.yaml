@@ -1,4 +1,8 @@
 _repo: The-Heroic-Record-of-the-British-Navy-A-Short-History-of-the-Naval-War-1914-1918_47248
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47248-h/images/img-cover.jpg
 creator:
   authors:
   - agent_name: Bashford, H. H. (Henry Howarth), Sir
@@ -18,6 +22,8 @@ creator:
     gutenberg_agent_id: '44208'
     url: http://www.gutenberg.org/2009/agents/44208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47248#The-Heroic-Record-of-the-British-Navy-A-Short-History-of-the-Naval-War-1914-1918
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2014-10-31'
 gutenberg_type: Text
